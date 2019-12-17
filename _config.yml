@@ -7,7 +7,7 @@ highlighter: rouge
 markdown: kramdown
 disqus: dbyll
 google_analytics: dbyll
-title: dbyll
+title: meeekyung
 
 defaults:
   -
@@ -18,9 +18,9 @@ defaults:
 
 description: Stylish Jekyll Theme
 author:
-  name: dbyll
-  email: dbyll@ismaildemirbilek.com
-  github: dbtek
+  name: mikyung
+  email: players043093@gmail.com
+  github: meeekyung.github.io
   twitter: dbtek
   pinterest: asd123
   linkedin: asd123
