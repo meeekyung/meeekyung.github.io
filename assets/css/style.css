@@ -154,6 +154,8 @@ article.home h4 a:hover {
 .author .author-image {
   float: left;
   margin-right: 20px;
+
+  width: 20%;
 }
 
 footer {
